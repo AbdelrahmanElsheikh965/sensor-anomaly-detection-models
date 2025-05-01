@@ -1,0 +1,93 @@
+
+
+ [
+        {
+
+            "City": "Cairo",
+            "Latitude": 30.0444,
+            "Longitude": 31.2357
+        },
+        {
+            "City": "Alexandria",
+            "Latitude": 31.2001,
+            "Longitude": 29.9187
+        },
+        {
+
+            "City": "Luxor",
+            "Latitude": 25.6872,
+            "Longitude": 32.6396
+        },
+        {
+
+            "City": "Hurghada",
+            "Latitude": 27.2579,
+            "Longitude": 33.8116
+        },
+        {
+
+            "City": "Aswan",
+            "Latitude": 24.0889,
+            "Longitude": 32.8998
+        },
+        {
+
+            "City": "Asyut",
+            "Latitude": 28.1099,
+            "Longitude": 30.7503
+        },
+        {
+
+            "City": "Sinai",
+            "Latitude": 29.3102,
+            "Longitude": 34.2595
+        },
+        {
+
+            "City": "Sohag",
+            "Latitude": 26.56,
+            "Longitude": 31.6952
+        },
+        {
+
+            "City": "Port Said",
+            "Latitude": 31.2653,
+            "Longitude": 32.3019
+        },
+        {
+
+            "City": "Giza",
+            "Latitude": 30.0131,
+            "Longitude": 31.2089
+        },
+        {
+
+            "City": "Ismailia",
+            "Latitude": 30.6043,
+            "Longitude": 32.2723
+        },
+        {
+
+            "City": "Beni Suef",
+            "Latitude": 28.8932,
+            "Longitude": 31.1713
+        },
+        {
+
+            "City": "Mansoura",
+            "Latitude": 31.0409,
+            "Longitude": 31.3785
+        },
+        {
+
+            "City": "Suez",
+            "Latitude": 29.9668,
+            "Longitude": 32.5498
+        },
+        {
+
+            "City": "Marsa Matruh",
+            "Latitude": 31.352,
+            "Longitude": 27.2373
+        }
+    ]

@@ -1,0 +1,30 @@
+[
+  {
+    "LocationId": 2,
+    "Year": 2015,
+    "SeverityId": 3,
+    "CauseId": 2,
+    "Impact": "Coastal flooding, traffic disruptions"
+  },
+  {
+    "LocationId": 3,
+    "Year": 2009,
+    "SeverityId": 4,
+    "CauseId": 4,
+    "Impact": "Farmland damage, evacuations"
+  },
+  {
+    "LocationId": 4,
+    "Year": 2012,
+    "SeverityId": 2,
+    "CauseId": 3,
+    "Impact": "Road closures, minor property damage"
+  },
+  {
+    "LocationId": 9,
+    "Year": 2018,
+    "SeverityId": 4,
+    "CauseId": 2,
+    "Impact": "Port area flooding, economic loss"
+  }
+]

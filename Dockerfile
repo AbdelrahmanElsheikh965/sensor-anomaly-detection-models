@@ -8,4 +8,5 @@ RUN curl -sS https://bootstrap.pypa.io/get-pip.py
 COPY reqs /reqs
 RUN pip install -r reqs/requirements.txt 
 COPY /src /usr/bin/src
-CMD ["python", "/usr/bin/src/comparison/evaluate.py"]
+CMD ["python3", "/usr/bin/src/comparison/evaluate.py"]
+# 
